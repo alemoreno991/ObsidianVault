@@ -1,0 +1,12 @@
+1. Define the style guide that we are gonna use [#107](https://github.com/Asus-Robotics-and-AI-Center/gnc-dam-c-src/issues/107)[#145](https://github.com/Asus-Robotics-and-AI-Center/gnc-dam-c-src/issues/145). 
+2. Apply `pre-commit` hooks and fix what needs to be fixed [#85](https://github.com/Asus-Robotics-and-AI-Center/gnc-dam-c-src/issues/85)[#95](https://github.com/Asus-Robotics-and-AI-Center/gnc-dam-c-src/issues/93)[#74](https://github.com/Asus-Robotics-and-AI-Center/gnc-dam-c-src/issues/74) [#191](https://github.com/Asus-Robotics-and-AI-Center/gnc-dam-c-src/issues/191)[#207](https://github.com/Asus-Robotics-and-AI-Center/gnc-dam-c-src/issues/207)[#213](https://github.com/Asus-Robotics-and-AI-Center/gnc-dam-c-src/issues/213)[#225](https://github.com/Asus-Robotics-and-AI-Center/gnc-dam-c-src/issues/225) 
+3. Discuss how to deal with errors [#115](https://github.com/Asus-Robotics-and-AI-Center/gnc-dam-c-src/issues/115)
+4. Discuss how to deal with logging [#200](https://github.com/Asus-Robotics-and-AI-Center/gnc-dam-c-src/issues/200)
+5. Discuss how to refactor the way we deal with message schemas [#218](https://github.com/Asus-Robotics-and-AI-Center/gnc-dam-c-src/issues/218)
+6. Where to store classes or code that is shared across different teams? E.g the message schema between BPRT and GNC or [#220](https://github.com/Asus-Robotics-and-AI-Center/gnc-dam-c-src/issues/220)
+7. Document the existing implementation before moving on [#128](https://github.com/Asus-Robotics-and-AI-Center/gnc-dam-c-src/issues/128)[#104](https://github.com/Asus-Robotics-and-AI-Center/gnc-dam-c-src/issues/104)[#3](https://github.com/Asus-Robotics-and-AI-Center/gnc-dam-c-src/issues/3)[#227](https://github.com/Asus-Robotics-and-AI-Center/gnc-dam-c-src/issues/227)
+8. Discuss if the `MavbridgeReader` needs to use a pub/sub to communicate data. [#185](https://github.com/Asus-Robotics-and-AI-Center/gnc-dam-c-src/issues/185)
+9. Refactor `Mavbridge`:
+	- Create a `MavbridgeMgr` [#205](https://github.com/Asus-Robotics-and-AI-Center/gnc-dam-c-src/issues/205)
+	- Create a `MavbridgeSocket` [#214](https://github.com/Asus-Robotics-and-AI-Center/gnc-dam-c-src/issues/214)
+10. Fix the division-by-zero error in the trajectory [#228](https://github.com/Asus-Robotics-and-AI-Center/gnc-dam-c-src/issues/228)

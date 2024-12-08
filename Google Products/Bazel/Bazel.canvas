@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"81b3785067546e3e","type":"file","file":"Google Products/Bazel/Bazel 101.md","x":-489,"y":-323,"width":400,"height":400},
+		{"id":"e5efeda5aa59fbd9","type":"file","file":"Google Products/Bazel/Cross compilation.md","x":60,"y":-323,"width":400,"height":400},
+		{"id":"a39ef74e86a7292b","type":"file","file":"Google Products/Bazel/Lint & Format.md","x":-489,"y":180,"width":400,"height":400},
+		{"id":"45daf2a02df72846","type":"file","file":"Google Products/Bazel/Clang.md","x":-489,"y":660,"width":400,"height":400},
+		{"id":"9352e6e8f32c9d21","type":"file","file":"Google Products/Bazel/Caching.md","x":-489,"y":-900,"width":400,"height":418},
+		{"id":"47abfc3aa98df731","x":680,"y":-323,"width":400,"height":400,"type":"file","file":"Google Products/Bazel/Linking.md"}
+	],
+	"edges":[
+		{"id":"e1687734a597e59c","fromNode":"a39ef74e86a7292b","fromSide":"bottom","toNode":"45daf2a02df72846","toSide":"top"},
+		{"id":"2e92670a813e2d5c","fromNode":"e5efeda5aa59fbd9","fromSide":"left","toNode":"81b3785067546e3e","toSide":"right"},
+		{"id":"77de9ff46a10725d","fromNode":"a39ef74e86a7292b","fromSide":"top","toNode":"81b3785067546e3e","toSide":"bottom"},
+		{"id":"3205bc819b11c94f","fromNode":"9352e6e8f32c9d21","fromSide":"bottom","toNode":"81b3785067546e3e","toSide":"top"},
+		{"id":"4d6b0a2a4dd99b6d","fromNode":"47abfc3aa98df731","fromSide":"left","toNode":"e5efeda5aa59fbd9","toSide":"right"}
+	]
+}
