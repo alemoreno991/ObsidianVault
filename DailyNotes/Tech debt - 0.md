@@ -42,7 +42,7 @@
 - [ ] How to manage errors?
 - [ ] Enforce consistent style across the repository kind/debt prio/medium
 - [ ] Document (high-level) the trajectory package with README
-- [ ] [Github Issue]: Migrate from #ifndef to #pragma once
+- [ ] [Github Issue]: Migrate from `#ifndef` to `#pragma` once
 - [ ] [Chore] Apply pre-commits on all folders.
 - [ ] [Github Issue]: Adjust packages visibility prio/low
 - [ ] Wrap custom types into the ARAIC namespace

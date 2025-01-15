@@ -1,3 +1,6 @@
+Tags: #bazel #build-system #devops
+
+---
 # Bazel 101
 
 **EXT_BUILD_DEPS** is where bazel stores the dependencies that we list in the BUILD.bazel file with the `deps` parameter.

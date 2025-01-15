@@ -1,3 +1,6 @@
+Tags: #bazel #build-system #devops
+
+---
 ## Useful flags
 
 ### Building

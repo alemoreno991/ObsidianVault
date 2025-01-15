@@ -1,5 +1,12 @@
+Tags: #git 
 
+---
 # Commands
+
+## Cloning
+
+- `git clone --depth=1 <repository-url>` (It only clones the commit at HEAD)
+- `git clone --branch=<commit-sha|tag|branch> <repository-url>` (It clones and checkout the specified commit/tag/branch)
 
 ## See difference between two branches
 

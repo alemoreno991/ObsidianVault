@@ -1,3 +1,7 @@
+Tags: #bazel #lint-format #toolchain #devops
+
+---
+
 The [rules_lint](https://github.com/aspect-build/rules_lint) integrates linting and formatting as first-class concepts under Bazel. The use [clang-format](https://clang.llvm.org/docs/ClangFormat.html) and [clang-tidy](https://clang.llvm.org/extra/clang-tidy/)|(which is what we already use).
 
 Features:

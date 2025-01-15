@@ -1,4 +1,6 @@
+Tags: #build-system #toolchain #devops
 
+---
 To examine what shared libraries your shared library or binary depends on.
 
 ```shell

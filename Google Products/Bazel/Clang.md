@@ -1,3 +1,6 @@
+Tags: #clang #build-system #toolchain #devops
+
+---
 # Install 
 
 Let's work with the latest version (clang-19)

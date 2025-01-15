@@ -1,3 +1,6 @@
+Tags: #bazel #build-system #devops
+
+---
 Taken from [A babel in Bazel](https://sluongng.hashnode.dev/series/bazel-caching-explained).
 
 # Overview

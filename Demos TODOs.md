@@ -1,8 +1,11 @@
+Tags: #daily
+
+---
 - [ ] Local map:
 	- [ ] [Chao-Wei] Emphasis on usability (not on performance)
 	- [ ] [Chris] Mock the ingestion of point clouds for SITL
 - [ ] Re-architecting codebase:
-	- [ ] [Ale] Trajectory Swapper into singleton
+	- [x] [Ale] Trajectory Swapper into singleton
 	- [x] [Chris] Reference frame transformation
 - [ ] [Tomas] Coordinate with BPRT on how to get the goals:
 	- In GPS-enabled mission -> GPS coordinate frame
@@ -15,6 +18,13 @@
 
 - [ ] [Teo] Streaming data out (sensors)
 
+
+## Teo's list
+
+- [ ] LocalMap to PX4 reference frame (neureddine) and Trajectory to PX4 reference frame
+	- [ ] Mavsender needs to transform trajectory reference frame into PX4 world by querying the PoseGraphAPI
+	- [ ] For really long trajectories (i.e. hover) we might need to regularly transform the trajectory to the PX4 world to handle the drift of our navigation system.
+- [ ] 
 
 
 ## Thoughts

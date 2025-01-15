@@ -1,3 +1,6 @@
+Tags: #simulation
+
+---
 ## Download Worlds
 It is possible to download *worlds* from [gazebosim](https://app.gazebosim.org/fuel/worlds). 
 

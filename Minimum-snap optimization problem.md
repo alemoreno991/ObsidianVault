@@ -1,3 +1,8 @@
+
+Tags: #guidance #optimization #quadratic-programming #trajectory
+
+---
+
 Let's define $T=\begin{bmatrix} T_0 & T_1 & \dots & Tn \end{bmatrix}^T$ as the vector of time intervals for the piece-wise polynomial $f(t)$.
 $$
 f(t) = \begin{cases} 
