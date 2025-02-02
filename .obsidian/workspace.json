@@ -1,119 +1,136 @@
 {
   "main": {
-    "id": "5a70783a9c711740",
+    "id": "d3cd0098d0689e87",
     "type": "split",
     "children": [
       {
-        "id": "f71980f9a967b1d4",
+        "id": "6e72842416cd551d",
         "type": "tabs",
         "children": [
           {
-            "id": "68b748b654fdd62b",
+            "id": "05fe8b47d3589c46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flakes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Flakes"
+            }
+          },
+          {
+            "id": "26cfb4af12dbfa14",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Demos TODOs.md",
+                "file": "2025-01-29.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Demos TODOs"
+              "title": "2025-01-29"
             }
           },
           {
-            "id": "eb0e495ad85251fd",
+            "id": "9c1d3fd65e61bb5b",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GNC burning up TODO list.md",
+                "file": "Yubikey in NixOS.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "GNC burning up TODO list"
+              "title": "Yubikey in NixOS"
             }
           },
           {
-            "id": "850f180308b3e59a",
+            "id": "9e7236e155ece9a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Dockerfile overview.md",
+                "file": "NixOS 101.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dockerfile overview"
+              "title": "NixOS 101"
             }
           },
           {
-            "id": "da87973bb1f55c2f",
+            "id": "1a335d69445f7aa4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HITL.md",
+                "file": "2025-01-29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HITL"
+              "title": "2025-01-29"
             }
           },
           {
-            "id": "0c8a02804ec9ef7e",
+            "id": "c47e9fcf1463a107",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google Products/Bazel/Cheetsheet.md",
+                "file": "Impermanence NixOS.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Cheetsheet"
+              "title": "Impermanence NixOS"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0825a31342f64847",
+    "id": "2c04e3e1ca020852",
     "type": "split",
     "children": [
       {
-        "id": "f093813ec7bfadb7",
+        "id": "b1ec32e812bdd7dc",
         "type": "tabs",
         "children": [
           {
-            "id": "36c94969e9a0e5c3",
+            "id": "cbbb6b48e69be98c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "882b2e2f0688201e",
+            "id": "a53c9b07d228c384",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "nore",
+                "query": "imper",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,7 +142,7 @@
             }
           },
           {
-            "id": "bca43ee2174e0afa",
+            "id": "022dae8d13e4771a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -138,23 +155,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 300
   },
   "right": {
-    "id": "bdb7183e01ec1810",
+    "id": "ad82c2d23a76e4fb",
     "type": "split",
     "children": [
       {
-        "id": "9e85652e8b420fa1",
+        "id": "24a235e6adea55db",
         "type": "tabs",
         "children": [
           {
-            "id": "5648ec4d3268592f",
+            "id": "9061f6be93c26699",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Local Map Buffer.md",
+                "file": "Flakes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,25 +181,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Local Map Buffer"
+              "title": "Backlinks for Flakes"
             }
           },
           {
-            "id": "b95763033738bda3",
+            "id": "f46639ca713aefc2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Local Map Buffer.md",
+                "file": "Flakes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Local Map Buffer"
+              "title": "Outgoing links from Flakes"
             }
           },
           {
-            "id": "ba5641cce44f70f1",
+            "id": "96502be332b3fdc4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -195,19 +212,18 @@
             }
           },
           {
-            "id": "95948bdf6b14992f",
+            "id": "5f237a1bd41b2def",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-10-29.md"
+                "file": "Flakes.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-10-29"
+              "title": "Outline of Flakes"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -224,49 +240,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da87973bb1f55c2f",
+  "active": "c47e9fcf1463a107",
   "lastOpenFiles": [
-    "Google Products/Bazel/Cheetsheet.md",
-    "GNC burning up TODO list.md",
-    "All-hands in deck - Jan 6th.md",
-    "Explore your disk utilization.md",
-    "Zenoh-cli.md",
-    "All-hands in deck - Jan 13th.md",
-    "All-hands in deck - Dec 30th.md",
-    "2025-01-09.md",
-    "DailyNotes/2024-12-05.md",
-    "TODOs - 2025.01.07.md",
-    "HITL.md",
-    "Docker/Dockerfile overview.md",
-    "Demos TODOs.md",
-    "Dockerfile Instructions.md",
-    "Pending urgent LocalMap.md",
-    "Git/Git.md",
-    "Local Mapper.md",
-    "Local Map Buffer.md",
-    "Google Products/Testing/GMock.md",
-    "Google Products/Testing",
-    "Docker/Docker Build Overview.md",
-    "Docker",
-    "Untitled.md",
-    "DailyNotes/2024-08-08.md",
-    "DailyNotes/Tech debt - 0.md",
-    "DailyNotes/Tech debt summary.md",
-    "Install Visualizer.md",
-    "Minimum-snap optimization problem.md",
-    "Git",
-    "Cheetsheet",
-    "Google Products",
-    "Google Products/Benchmarking",
-    "Google Products/Bazel/Bazel.canvas",
-    "imgs/IMG_4661.jpg",
-    "imgs/Pasted image 20240813160517.png",
-    "imgs",
-    "imgs/Pasted image 20240815163606.png",
-    "imgs/Pasted image 20240813174202.png",
-    "imgs/Pasted image 20240813170918.png",
-    "imgs/Pasted image 20240813165342.png",
-    "Google Products/Bazel",
-    "DailyNotes"
+    "2025-01-29.md",
+    "Yubikey in NixOS.md",
+    "Impermanence NixOS.md",
+    "NixOS 101.md",
+    "Flakes.md",
+    "Relevant people in Nix community.md",
+    "NixOS on System76.md",
+    "2025-01-26.md",
+    "Tmux 101.md",
+    "Bash-it.md",
+    "Shell scripts in NixOS.md",
+    "NixOS with Nvidia GPU.md",
+    "Pasted image 20250126171525.png",
+    "Pasted image 20250126171028.png",
+    "System76.md",
+    "Configure bash with home-manager.md",
+    "Welcome.md"
   ]
 }
