@@ -8,7 +8,7 @@ This tool allows you to attach to an existing zenoh network for debugging purpos
 ## Install the tool
 
 ```
-pip install zenoh-cli=0.5.2
+pip install zenoh-cli==0.5.2
 ```
 
 ## Subscribe to a topic
